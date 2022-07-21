@@ -1,0 +1,3 @@
+# Algorithms
+
+## simple algorithms

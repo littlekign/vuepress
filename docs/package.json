@@ -1,0 +1,21 @@
+{
+  "name": "fe-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "lk",
+    "email": ""
+  },
+  "repository": "/fe-blog",
+  "scripts": {
+    "dev1": "vuepress dev src",
+    "start": "vuepress dev src",
+    "dev": "vuepress dev src --temp .temp",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
